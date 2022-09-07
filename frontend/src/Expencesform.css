@@ -1,0 +1,22 @@
+.dnone {
+    display: none;
+}
+
+.dblock {
+    display: block;
+}
+
+.form {
+    width: 90%;
+    height: 150px;
+    background-color: rgb(150, 143, 250);
+    margin: 0px auto;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+input {
+    margin-right: 5%;
+    border-radius: 5px;
+}
